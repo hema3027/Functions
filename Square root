@@ -1,0 +1,6 @@
+#python
+def sqr(x):
+    print(x**2)
+     
+a=int(input())
+sqr(a)
