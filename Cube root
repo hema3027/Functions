@@ -1,0 +1,6 @@
+#python
+def cub(x):
+    print(x*x*x)
+    
+a=int(input())
+cub(a)
